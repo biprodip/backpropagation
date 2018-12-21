@@ -3,7 +3,7 @@
 """
 Created on Sun Oct  7 17:59:02 2018
 
-@author: ukw
+@author: biprodip
 """
 
 def sigm(Z):
