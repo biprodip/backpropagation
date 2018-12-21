@@ -3,7 +3,7 @@
 """
 Created on Sun Oct  7 18:00:13 2018
 
-@author: ukw
+@author: biprodip
 """
 
 def error(T,Y):
