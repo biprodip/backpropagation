@@ -3,7 +3,7 @@
 """
 Created on Sun Oct  7 17:57:04 2018
 
-@author: ukw
+@author: biprodip
 """
 
 def forwardPass(X):
