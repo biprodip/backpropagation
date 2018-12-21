@@ -3,7 +3,7 @@
 """
 Created on Sun Oct  7 17:59:42 2018
 
-@author: ukw
+@author: biprodip
 """
 
 def dsigm(Y):
