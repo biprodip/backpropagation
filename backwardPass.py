@@ -3,7 +3,7 @@
 """
 Created on Sun Oct  7 17:57:54 2018
 
-@author: ukw
+@author: biprodip
 """
 
 def backwardPass(X,T, Y_O, Y_H):
